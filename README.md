@@ -1,5 +1,16 @@
 # html
 
+## Steps to create website
+
+1. someone asking you to create a website
+1. create a repository
+1. clone remote repository locally
+1. create file locally
+1. every day, we should do 3 things to keep the website safe
+   1. Add
+   1. Commit
+   1. Push to remote
+
 # Command used by Mohan
 
 - git clone https://github.com/keerthana-oss/html.git
